@@ -17,7 +17,7 @@ Small sample sales dataset (OrderID, OrderDate, Region, Product, Sales, Profit, 
 Power BI Desktop (.pbix), sample CSV
 
 ## How to view
-Open SalesDashboard.pbix in Power BI Desktop OR view screenshots in this repo.
+Open SalesDashboard.pbix in Power BI Desktop.
 
 ## Key Insights
 - Region North has the highest sales.
