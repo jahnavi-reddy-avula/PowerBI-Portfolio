@@ -19,10 +19,10 @@ Power BI Desktop (.pbix), sample CSV
 ## How to view
 Open SalesDashboard.pbix in Power BI Desktop OR view screenshots in this repo.
 
-## Key Insights (example)
-- Region West has the highest sales.
-- Product category Technology shows high average order value.
-- Profit margin averages ~X% (replace with your number).
+## Key Insights
+- Region North has the highest sales.
+- Product category Office Supplies shows high average order value.
 
 ## Author
-Jahnavi Reddy — GitHub: https://github.com/yourusername
+
+Jahnavi Reddy — GitHub: https://github.com/jahnavi-reddy-avula
